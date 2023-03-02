@@ -1,0 +1,23 @@
+{
+  "name": "wp5-react-starter",
+  "version": "1.0.0",
+  "description": "A barebone react app with Webpack 5 and React 18",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akpx/wp5-react-starter.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "@akpx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akpx/wp5-react-starter/issues"
+  },
+  "homepage": "https://github.com/akpx/wp5-react-starter#readme"
+}
